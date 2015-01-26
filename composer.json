@@ -1,0 +1,16 @@
+{
+    "name": "lapistano/Symfony2-coding-standard",
+    "description": "A PHP_CodeSniffer standard for Symfony 2 applications",
+    "keywords": [
+        "phpcs",
+        "Symfony",
+        "standards",
+        "PSR"
+    ],
+    "homepage": "https://github.com/lapistano/Symfony2-coding-standard",
+    "license": "MIT",
+    "require": {
+        "squizlabs/php_codesniffer": "*",
+        "php": ">=5.5.0"
+    }
+}
